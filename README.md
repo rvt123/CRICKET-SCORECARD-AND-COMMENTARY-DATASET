@@ -1,6 +1,7 @@
 # CRICKET-SCORECARD-AND-COMMENTARY-DATASET
 Match Scorecard and Commentary Data from 2017 for ODI, Test, T20, IPL, BBL, PSL.
 This Dataset is also available on Kaggle: https://www.kaggle.com/raghuvansht/cricket-scorecard-and-commentary-dataset
+Due to large file size Commentary files could not be added here please visit the Kaggle Dataset link.
 
 Cricket is being played for ages. Cricket was halted due to Corona Virus and it resumed again. But the Dataset we have is ages old so, I Raghuvansh Tahlan an aspiring Data Scientist and an avid Cricket lover bring you my Personal Cricket Dataset which covers Matches from 2017 till Pre-COVID(2020). The Dataset is 3 fold first a CSV file containing each row for a Match, then Batting and Bowling Scorecard CSV files for each match and a CSV file per match containing ball-by-ball commentary for each match.
 The data covers International Matches(ODI, T20, Test Match) and leagues namely Indian Premier League(IPL), Big Bash League(BBL) and Pakistan Super League(PSL).
